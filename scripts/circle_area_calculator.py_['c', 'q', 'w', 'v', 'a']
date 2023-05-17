@@ -1,0 +1,8 @@
+import math
+
+# Define a function to calculate the area of a circle
+def calculate_circle_area(radius):
+    return math.pi * radius ** 2
+
+# Call the function with a radius of 5 and print the result
+print(calculate_circle_area(5))
