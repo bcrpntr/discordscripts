@@ -1,9 +1,0 @@
-# This script imports the math module, defines a function to calculate the area of a circle
-# given the radius, and prints the area of a circle with a radius of 5.
-
-import math
-
-def calculate_circle_area(radius):
-    return math.pi * radius ** 2
-
-print(calculate_circle_area(5))

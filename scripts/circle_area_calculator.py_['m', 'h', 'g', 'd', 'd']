@@ -1,6 +1,0 @@
-import math  # import math module
-
-def calculate_circle_area(radius):  # define a function that takes in a radius
-    return math.pi * radius ** 2  # calculate the area of the circle with the given radius
-
-print(calculate_circle_area(5))  # call the function with a radius of 5 and print the result
